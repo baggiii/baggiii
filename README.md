@@ -1,5 +1,5 @@
 **Angehender Fachinformatiker für Systemintegration**  
-📍 Recklinghausen · [LinkedIn](https://www.linkedin.com/in/markus-badura-b991322a8) · [Portfolio](https://profilvonmarkus.streamlit.app/)
+📍 Recklinghausen · [LinkedIn](https://www.linkedin.com/in/markus-badura-b991322a8) · [Profil](https://profilvonmarkus.streamlit.app/)
 
 ---
 
