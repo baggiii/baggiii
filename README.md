@@ -33,3 +33,5 @@ Ich lerne IT nicht aus dem Lehrbuch, sondern weil ich die Probleme kenne.
 Mein Wechsel in die IT war keine Notlösung.  
 
 Im Vertrieb habe ich jahrelang mit isolierten Systemen, manuellen Schnittstellen und fehlender Datendurchgängigkeit gearbeitet. Heute möchte ich die Lösungen bauen, die ich damals gewünscht hätte.
+
+Ich bin noch am Anfang, aber ich lerne schnell, denke in Zusammenhängen und höre nicht auf, wenn es schwierig wird.
