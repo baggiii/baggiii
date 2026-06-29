@@ -6,7 +6,7 @@
 Über 10 Jahre Vertrieb und Kundenmanagement und jetzt auf der anderen Seite der Schnittstelle.  
 Ich lerne IT nicht aus dem Lehrbuch, sondern weil ich die Probleme kenne.
 
-**Aktuell suche ich ein Praktikum im Bereich Systemintegration / IT-Infrastruktur.**
+**Aktuell bin ich Umschüler zum Systemintegrator.**
 
 ---
 
